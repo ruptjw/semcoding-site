@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://semcoding.onrender.com/sitemap.xml
